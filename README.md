@@ -1,6 +1,6 @@
 # 🏗️ Ai Project Manager
 
-Calma AI's Project Manager is an **agentic AI assistant** designed to eliminate the stress of managing project documentation.  
+AI Project Manager is an **agentic AI assistant** designed to eliminate the stress of managing project documentation.  
 It ingests technical documents (design docs, meeting notes, code standards), stores them in memory, and retrieves fact‑checked answers to complex, project‑specific questions instantly.
 
 ---
